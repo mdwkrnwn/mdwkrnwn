@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-I'm currently a student at SMKN 1 Bangil.
+Informatics Engineering Student at State Polytechnic of Malang
 
 
 ## 🌐 Socials:
