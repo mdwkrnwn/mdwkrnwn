@@ -1,7 +1,6 @@
 # Hi, I'm Dwi Kurniawan 👋
 
 🎓 **Informatics Engineering Student** at **State Polytechnic of Malang**
-💻 Interested in **Software Engineering, Web Development, and Database Systems**
 
 > *Building things, learning continuously, and turning ideas into real applications.*
 
@@ -96,7 +95,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdwikurniawan976&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mdwkrnwn&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
