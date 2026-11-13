@@ -102,16 +102,6 @@
 
 ---
 
-## 🚀 Currently Learning
-
-```text
-Web Development      ███████████████████░   95%
-Java & OOP           ████████████████░░░░   80%
-Database Systems     ████████████████░░░░   80%
-Software Engineering ██████████████░░░░░░   70%
-UI/UX Design         ████████████░░░░░░░   60%
-```
-
 ---
 
 ## 🎯 Goals
